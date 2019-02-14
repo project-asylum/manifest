@@ -3,7 +3,7 @@ GZOSP
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/GZOSP/manifest.git -b 9.0
+	repo init -u https://github.com/project-asylum/manifest.git -b 9.0
 
 Submitting Patches
 ------------------
