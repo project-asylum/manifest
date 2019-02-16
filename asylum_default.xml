@@ -33,6 +33,7 @@
   </project>
 
   <project path="bionic" name="bionic" remote="asm" />
+  <project path="frameworks/asylum" name="frameworks_asylum" remote="asm" />
   <project path="frameworks/base" name="frameworks_base" remote="asm" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="asm" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="asm" />
