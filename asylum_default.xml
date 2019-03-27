@@ -39,7 +39,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="asm" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="asm" />
   <project path="system/core" name="system_core" groups="pdk" remote="asm" />
-  <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
+  <project path="system/vold" name="system_vold" groups="pdk" remote="asm" />
   <project path="vendor/asylum" name="vendor_asylum" remote="asm" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="asm" />
 
