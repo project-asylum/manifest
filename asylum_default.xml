@@ -40,6 +40,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="asm" />
   <project path="system/core" name="system_core" groups="pdk" remote="asm" />
   <project path="vendor/asylum" name="vendor_asylum" remote="asm" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="asm" />
 
   <!-- GZOSP -->
   <project path="hardware/qcom/audio/default" name="hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="gzosp" />
